@@ -926,7 +926,7 @@
   (gr_text VSS (at 91 84.45 270) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
-  (gr_text "PSRAM Test V1" (at 100 90) (layer F.SilkS)
+  (gr_text "PSRAM Test V0" (at 100 90) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (gr_line (start 75 125) (end 75 75) (layer Edge.Cuts) (width 0.15))
